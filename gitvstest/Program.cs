@@ -10,6 +10,7 @@ namespace gitvstest
     {
         static void Main(string[] args)
         {
+            Console.Writeline("Test push");
         }
     }
 }
